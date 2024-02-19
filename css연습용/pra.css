@@ -1,0 +1,12 @@
+/*
+position: relative;는 원래 자기자신의 위치가 기준이다
+position: absolute;는 가장 가까운 조상요소가 기준이다.
+
+float도 실험해볼것
+*/
+
+.put{
+    float:left;
+    position:relative;
+    left:20px; 
+}
